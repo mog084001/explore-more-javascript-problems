@@ -1,7 +1,7 @@
 const shoppingCart = [
     { name: 'shoe', price: 1200 },
     { name: 'shirt', price: 2200 },
-    { name: 'pqnt', price: 3700 },
+    { name: 'pant', price: 3700 },
     { name: 'belt', price: 1200 },
     { name: 'gengi', price: 1200 },
     { name: 'golganzi', price: 1000 },
